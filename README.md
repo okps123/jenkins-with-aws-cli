@@ -1,6 +1,7 @@
-# Jenkins With AWS-CLI
+# Jenkins With AWS-CLI 📦
 
-it's Jenkins Image included aws-cli with python3, pip 📦
+it's jenkins image included aws-cli with python3, pip
+you can use aws-cli in jenkins pipeline
 
 ## Usage
 
